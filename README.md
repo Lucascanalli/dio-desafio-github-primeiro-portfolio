@@ -28,8 +28,7 @@ Repositorio criado para o Desafio de Projeto.
 
       - GUI= Graphical User Interface. "tem interface grafica" -=.
 
-      # 							Comando Windows	
-
+###   Comando Windows	
       - cd = Entra na pasta .
 
       - dir = Lista os diretorios que esta no momento .
@@ -44,8 +43,7 @@ Repositorio criado para o Desafio de Projeto.
 
       - ls = lista o que tem dentro do diretorio 
 
-        # 					Objetos internos do git 
-
+###   Objetos internos do git 
         - Objetos fundamentais (blobs) = Os arquivos ficam guardados dentro desse arquivo e esse objeto contem metadados dentro dele.
 
         - Tree = Armazena blocos, metadados e arquivos tambem aponta para outras arvores   
@@ -56,14 +54,12 @@ Repositorio criado para o Desafio de Projeto.
 
           - Tree > Criptografia.  Parente > Criptografia.  Autor > "o que voçe nomeou".  Mensagem "O que voçe colocou" >Temestamp.
 
-            # 							Chave SSH
-
+###   Chave SSH
             - É uma forma de estabelecer uma conexão segura e encriptada entre 2 maquinas .
 
             - Gerando um SSH > Abra o Git Bash > Use o comando > ssh-keygen -t ed25519 -C email "seu email do github". 
 
-              ## 					Comando dentro do git bash
-
+###   Comando dentro do git bash
               - ls = lista o que tem dentro do diretorio .
 
               - cat id publico = gera uma chave para colocar no git hub.
@@ -94,12 +90,10 @@ Repositorio criado para o Desafio de Projeto.
 
               - git push origin master > ira pedir autenticaçao de 2 passos ativo 
 
-                ## 									repositorios
-
+###   repositorios
                 - Servidor > Remote Repository
 
-                ## 						Ambiente de desenvolvimento
-
+###   Ambiente de desenvolvimento
                 - Working cirectory 
                 - Staging area
                 - Local repository
