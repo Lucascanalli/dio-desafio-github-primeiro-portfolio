@@ -13,8 +13,7 @@ Repositorio criado para o Desafio de Projeto.
 
   - Outros serviços iguais ao Git Hub: Bitbucket e Git Lab.
 
-    																						# 								Aprendi no curso 
-
+###           Aprendi no curso
     - Controle de versao.
 
     - Armazenamento em nuvem.
@@ -25,11 +24,9 @@ Repositorio criado para o Desafio de Projeto.
 
     - Reconhecimento.
 
-       -
+      - CLI = Comando line interface "nao tem interface grafica" -Git.
 
-      CLI = Comando line interface "nao tem interface grafica" -Git.
-
-      GUI= Graphical User Interface. "tem interface grafica" -=.
+      - GUI= Graphical User Interface. "tem interface grafica" -=.
 
       # 							Comando Windows	
 
